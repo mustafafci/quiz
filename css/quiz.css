@@ -1,0 +1,26 @@
+body {
+  background-color: rgb(212 241 244 / 22%);
+}
+
+.answers li {
+  background-color: rgb(212 241 244 / 28%);
+}
+.answers input[type="radio"] {
+  cursor: pointer;
+}
+.answers label {
+  cursor: pointer;
+  margin-left: 4px;
+}
+.answers input[type="radio"]:checked + label {
+  color: var(--bs-primary);
+}
+.question .bullets span {
+  width: 20px;
+  height: 20px;
+  /* cursor: pointer; */
+}
+.question .bullets span.active {
+  border: 4px solid var(--bs-primary);
+  background-color: #fff !important;
+}

@@ -1,0 +1,162 @@
+[{ 
+  "java":[{
+    "question": "A flashing red traffic light signifies that a driver should do what?",
+    "A": "stop",
+    "B": "speed up",
+    "C": "proceed with caution",
+    "D": "honk the horn",
+    "answer": "A"
+  }, {
+    "question": "A knish is traditionally stuffed with what filling?",
+    "A": "potato",
+    "B": "creamed corn",
+    "C": "lemon custard",
+    "D": "raspberry jelly",
+    "answer": "A"
+  }, {
+    "question": "A pita is a type of what?",
+    "A": "fresh fruit",
+    "B": "flat bread",
+    "C": "French tart",
+    "D": "friend bean dip",
+    "answer": "B"
+  }, {
+    "question": "A portrait that comically exaggerates a person's physical traits is called a what?",
+    "A": "landscape",
+    "B": "caricature",
+    "C": "still life",
+    "D": "Impressionism",
+    "answer": "B"
+  }, {
+    "question": "A second-year college student is usually called a what?",
+    "A": "sophomore",
+    "B": "senior",
+    "C": "freshman ",
+    "D": "junior ",
+    "answer": "A"
+  }, {
+    "question": "A student who earns a J.D. can begin his or her career as a what?",
+    "A": "lawyer",
+    "B": "bricklayer",
+    "C": "doctor",
+    "D": "accountant",
+    "answer": "A"
+  }, {
+    "question": "A triptych is a work of art that is painted on how many panels?",
+    "A": "two",
+    "B": "three",
+    "C": "five",
+    "D": "eight",
+    "answer": "B"
+  }, {
+    "question": "According to a famous line from the existentialist play 'No Exit' what is hell?",
+    "A": "oneself",
+    "B": "other people",
+    "C": "little made large",
+    "D": "hued in green and blue",
+    "answer": "B"
+  }, {
+    "question": "According to a popular slogan, what state should people not 'mess with'?",
+    "A": "New York",
+    "B": "Texas",
+    "C": "Montana",
+    "D": "Rhode Island",
+    "answer": "B"
+  }, {
+    "question": "According to a Yale University study, what smell is the most recognizable to American adults?",
+    "A": "tuna",
+    "B": "laundry",
+    "C": "popcorn",
+    "D": "coffee",
+    "answer": "D"
+   }]
+   },
+   {
+    "testss":[
+    {
+      "question": "Who was the first US president to resign from that office?",
+      "A": "Martin Van Buren",
+      "B": "Andrew Jackson",
+      "C": "Andrew Johnson",
+      "D": "Richard Nixon",
+      "answer": "D"
+    }, {
+      "question": "Who was the longest reigning monarch in French history?",
+      "A": "Louis XIII ",
+      "B": "Louis XIV",
+      "C": "Louis XV",
+      "D": "Louis XVI",
+      "answer": "B"
+    }, {
+      "question": "Who was the mother of the Greek god Zeus?",
+      "A": "Gaia",
+      "B": "Phoebe",
+      "C": "Rhea",
+      "D": "Hera",
+      "answer": "C"
+    }, {
+      "question": "Who was the WNBA's Most Valuable Player of 1999?",
+      "A": "Rebecca Lobo",
+      "B": "Sheryl Swoopes",
+      "C": "Lisa Leslie",
+      "D": "Yolanda Griffith",
+      "answer": "D"
+    }, {
+      "question": "Who were the Chicago Seven?",
+      "A": "war protesters",
+      "B": "bluegrass musicians",
+      "C": "bank robbers",
+      "D": "mobsters",
+      "answer": "A"
+    }, {
+      "question": "Who were the Know-Nothings?",
+      "A": "a '60's comedy troupe",
+      "B": "computer designers",
+      "C": "a political party",
+      "D": "a spy ring",
+      "answer": "C"
+    }, {
+      "question": "Who wrote 'A Tale of Two Cities'?",
+      "A": "Charles Dickens",
+      "B": "Nathaniel Hawthorne",
+      "C": "Washington Irving",
+      "D": "Mark Twain",
+      "answer": "A"
+    }, {
+      "question": "Who wrote musicals with Oscar Hammerstein II?",
+      "A": "Richard Rodgers",
+      "B": "Rogers Hornsby",
+      "C": "Gilbert O' Sullivan",
+      "D": "George Rogers Clark",
+      "answer": "A"
+    }, {
+      "question": "Who wrote the lyrics of the Frank Sinatra anthem 'My Way'?",
+      "A": "Frank Sinatra",
+      "B": "Kris Krist offerson",
+      "C": "Carole King",
+      "D": "Paul Anka",
+      "answer": "D"
+    }, {
+      "question": "Whom did Billie Jean King defeat in the famous 'Battle of the Sexes' tennis match?",
+      "A": "Jimmy Connors",
+      "B": "Pete Sampras",
+      "C": "John McEnroe",
+      "D": "Bobby Riggs",
+      "answer": "D"
+    }, {
+      "question": "Whose profile can you see on the front of dimes that are currently in circulation?",
+      "A": "George Washington",
+      "B": "Thomas Jefferson",
+      "C": "Benjamin Franklin",
+      "D": "Franklin Roosevelt",
+      "answer": "D"
+    }, {
+      "question": "With what would you use a wah-wah pedal?",
+      "A": "bicycle",
+      "B": "stock car",
+      "C": "electric guitar",
+      "D": "baby",
+      "answer": "C"
+    }
+       ]}
+]
